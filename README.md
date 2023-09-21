@@ -1,4 +1,4 @@
-# Information Processing Scripts Repository
+# BeeTool Data Processing Scripts Repository
 
 This repository aims to store scripts used for information processing.
 
