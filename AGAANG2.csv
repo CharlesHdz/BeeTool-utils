@@ -1,0 +1,674 @@
+"","target_taxon_name","...1","source_taxon_name","latitude","longitude","ISO_A2","NAME_ES","searched_taxon_name","country_name","Estatus.Taxonómico","Nombre.Válido","Autoridad","Rango.Taxonómico","Familia","Forma.biológica"
+"1","Acacia",603,"Agapostemon (Agapostemon) angelicus",32.2493,-99.3939,"US","Estados Unidos","Acacia","Argentina|Brasil|Estados Unidos|México|Venezuela","Aceptado","Acacia","Mill.","Género","Fabaceae","Árbol|Arbusto|Bejuco|Herbácea"
+"2","Acacia",604,"Agapostemon (Agapostemon) angelicus",32.5643,-99.2969,"US","Estados Unidos","Acacia","Argentina|Brasil|Estados Unidos|México|Venezuela","Aceptado","Acacia","Mill.","Género","Fabaceae","Árbol|Arbusto|Bejuco|Herbácea"
+"3","Acer",275,"Agapostemon angelicus",NA,NA,NA,NA,"Acer","Estados Unidos","Aceptado","Acer","L.","Género","Sapindaceae","Árbol|Arbusto"
+"4","Acer",287,"Agapostemon angelicus",37.8501,-111.3099,"US","Estados Unidos","Acer","Estados Unidos","Aceptado","Acer","L.","Género","Sapindaceae","Árbol|Arbusto"
+"5","Achillea millefolium",485,"Agapostemon angelicus",37.3019,-111.1437,"US","Estados Unidos","Achillea millefolium","Canadá|Estados Unidos","Aceptado","Achillea millefolium","L.","Especie","Asteraceae","Herbácea"
+"6","Achillea millefolium",251,"Agapostemon angelicus",NA,NA,NA,NA,"Achillea millefolium","Canadá|Estados Unidos","Aceptado","Achillea millefolium","L.","Especie","Asteraceae","Herbácea"
+"7","Achillea millefolium",538,"Agapostemon angelicus",37.29953,-111.12777,"US","Estados Unidos","Achillea millefolium","Canadá|Estados Unidos","Aceptado","Achillea millefolium","L.","Especie","Asteraceae","Herbácea"
+"8","Agoseris glauca",412,"Agapostemon angelicus",37.3101,-111.1318,"US","Estados Unidos","Agoseris glauca","Estados Unidos","Aceptado","Agoseris glauca","(Pursh) Raf.","Especie","Asteraceae","Herbácea"
+"9","Agoseris glauca",242,"Agapostemon angelicus",NA,NA,NA,NA,"Agoseris glauca","Estados Unidos","Aceptado","Agoseris glauca","(Pursh) Raf.","Especie","Asteraceae","Herbácea"
+"10","Allionia incarnata",60,"Agapostemon angelicus",31.32417,-109.27,"MX","MÃ©xico","Allionia incarnata","Estados Unidos|México","Aceptado","Allionia incarnata","L.","Especie","Nyctaginaceae","Herbácea"
+"11","Allionia incarnata",48,"Agapostemon angelicus",31.3306,-109.21,"US","Estados Unidos","Allionia incarnata","Estados Unidos|México","Aceptado","Allionia incarnata","L.","Especie","Nyctaginaceae","Herbácea"
+"12","Allionia incarnata",121,"Agapostemon angelicus",NA,NA,NA,NA,"Allionia incarnata","Estados Unidos|México","Aceptado","Allionia incarnata","L.","Especie","Nyctaginaceae","Herbácea"
+"13","Allionia incarnata",28,"Agapostemon angelicus",31.33056,-109.21,"US","Estados Unidos","Allionia incarnata","Estados Unidos|México","Aceptado","Allionia incarnata","L.","Especie","Nyctaginaceae","Herbácea"
+"14","Aloysia",648,"Agapostemon (Agapostemon) angelicus",29.3283,-103.43,"US","Estados Unidos","Aloysia","Estados Unidos|México","Aceptado","Aloysia","Paláu","Género","Verbenaceae","Arbusto"
+"15","Amelanchier utahensis",422,"Agapostemon angelicus",37.29953,-111.12777,"US","Estados Unidos","Amelanchier utahensis","Estados Unidos","Aceptado","Amelanchier utahensis","Koehne","Especie","Rosaceae","Arbusto"
+"16","Amelanchier utahensis",237,"Agapostemon angelicus",NA,NA,NA,NA,"Amelanchier utahensis","Estados Unidos","Aceptado","Amelanchier utahensis","Koehne","Especie","Rosaceae","Arbusto"
+"17","Amorpha canescens",622,"Agapostemon (Agapostemon) angelicus",39.84111,-96.64694,"US","Estados Unidos","Amorpha canescens","Estados Unidos","Aceptado","Amorpha canescens","Pursh","Especie","Fabaceae","Arbusto"
+"18","Artemisia",257,"Agapostemon angelicus",NA,NA,NA,NA,"Artemisia","Argentina|Estados Unidos","Aceptado","Artemisia","L.","Género","Asteraceae","Arbusto|Herbácea"
+"19","Artemisia",365,"Agapostemon angelicus",37.7728,-111.4351,"US","Estados Unidos","Artemisia","Argentina|Estados Unidos","Aceptado","Artemisia","L.","Género","Asteraceae","Arbusto|Herbácea"
+"20","Asclepias",608,"Agapostemon (Agapostemon) angelicus",32.94,-114.6103,"US","Estados Unidos","Asclepias","Estados Unidos","Aceptado","Asclepias","L.","Género","Apocynaceae","Arbusto|Herbácea"
+"21","Asclepias",190,"Agapostemon angelicus",NA,NA,NA,NA,"Asclepias","Estados Unidos","Aceptado","Asclepias","L.","Género","Apocynaceae","Arbusto|Herbácea"
+"22","Asclepias",318,"Agapostemon angelicus",37.84737,-111.35395,"US","Estados Unidos","Asclepias","Estados Unidos","Aceptado","Asclepias","L.","Género","Apocynaceae","Arbusto|Herbácea"
+"23","Asclepias speciosa",331,"Agapostemon angelicus",37.7645,-111.4046,"US","Estados Unidos","Asclepias speciosa","Canadá|Estados Unidos","Aceptado","Asclepias speciosa","Torr.","Especie","Apocynaceae","Herbácea"
+"24","Asclepias speciosa",243,"Agapostemon angelicus",NA,NA,NA,NA,"Asclepias speciosa","Canadá|Estados Unidos","Aceptado","Asclepias speciosa","Torr.","Especie","Apocynaceae","Herbácea"
+"25","Aster",347,"Agapostemon angelicus",38.0937,-110.8386,"US","Estados Unidos","Aster","Canadá|Estados Unidos","Aceptado","Aster","L.","Género","Asteraceae","Herbácea"
+"26","Asteraceae",366,"Agapostemon angelicus",37.8388,-111.621,"US","Estados Unidos","Asteraceae","Canadá|Estados Unidos|Grecia|México|Pakistán","Aceptado","Asteraceae","Bercht. & J. Presl","Familia","Asteraceae",""
+"27","Asteraceae",527,"Agapostemon angelicus",37.3101,-111.1318,"US","Estados Unidos","Asteraceae","Canadá|Estados Unidos|Grecia|México|Pakistán","Aceptado","Asteraceae","Bercht. & J. Presl","Familia","Asteraceae",""
+"28","Asteraceae",503,"Agapostemon angelicus",37.2941,-111.1414,"US","Estados Unidos","Asteraceae","Canadá|Estados Unidos|Grecia|México|Pakistán","Aceptado","Asteraceae","Bercht. & J. Presl","Familia","Asteraceae",""
+"29","Asteraceae",197,"Agapostemon angelicus",NA,NA,NA,NA,"Asteraceae","Canadá|Estados Unidos|Grecia|México|Pakistán","Aceptado","Asteraceae","Bercht. & J. Presl","Familia","Asteraceae",""
+"30","Asteraceae",76,"Agapostemon angelicus",31.32222,-109.07972,"MX","MÃ©xico","Asteraceae","Canadá|Estados Unidos|Grecia|México|Pakistán","Aceptado","Asteraceae","Bercht. & J. Presl","Familia","Asteraceae",""
+"31","Asteraceae",385,"Agapostemon angelicus",37.7894,-111.1682,"US","Estados Unidos","Asteraceae","Canadá|Estados Unidos|Grecia|México|Pakistán","Aceptado","Asteraceae","Bercht. & J. Presl","Familia","Asteraceae",""
+"32","Asteraceae",560,"Agapostemon angelicus",37.2298,-112.1165,"US","Estados Unidos","Asteraceae","Canadá|Estados Unidos|Grecia|México|Pakistán","Aceptado","Asteraceae","Bercht. & J. Presl","Familia","Asteraceae",""
+"33","Asteroideae",596,"Agapostemon angelicus",35.7926750002,-105.7911045412,"US","Estados Unidos","Asteroideae","Canadá|Estados Unidos","Aceptado","Asteroideae","(Cass.) Lindl.","Subfamilia","Asteraceae",""
+"34","Asteroideae",597,"Agapostemon angelicus",35.6869752,-105.937799,"US","Estados Unidos","Asteroideae","Canadá|Estados Unidos","Aceptado","Asteroideae","(Cass.) Lindl.","Subfamilia","Asteraceae",""
+"35","Astragalus",361,"Agapostemon angelicus",37.6447,-111.0702,"US","Estados Unidos","Astragalus","Canadá|Chile|Estados Unidos","Aceptado","Astragalus","L.","Género","Fabaceae","Arbusto|Herbácea"
+"36","Astragalus allochrous",116,"Agapostemon angelicus",NA,NA,NA,NA,"Astragalus allochrous","México","Aceptado","Astragalus allochrous","A. Gray","Especie","Fabaceae","Arbusto|Herbácea"
+"37","Astragalus allochrous",71,"Agapostemon angelicus",31.32507,-109.09158,"MX","MÃ©xico","Astragalus allochrous","México","Aceptado","Astragalus allochrous","A. Gray","Especie","Fabaceae","Arbusto|Herbácea"
+"38","Atriplex canescens",103,"Agapostemon angelicus",NA,NA,NA,NA,"Atriplex canescens","Estados Unidos","Aceptado","Atriplex canescens","(Pursh) Nutt.","Especie","Amaranthaceae","Arbusto"
+"39","Atriplex canescens",27,"Agapostemon angelicus",31.33056,-109.21,"US","Estados Unidos","Atriplex canescens","Estados Unidos","Aceptado","Atriplex canescens","(Pursh) Nutt.","Especie","Amaranthaceae","Arbusto"
+"40","Baccharis douglasii",136,"Agapostemon angelicus",31.93405,-109.11673,"US","Estados Unidos","Baccharis douglasii","Estados Unidos","Sinónimo","Baccharis glutinosa","Pers.","Especie","Asteraceae","Arbusto"
+"41","Baccharis neglecta",2,"Agapostemon angelicus",26.8336,-102.162,"MX","MÃ©xico","Baccharis neglecta","México","Aceptado","Baccharis neglecta","Britton","Especie","Asteraceae","Arbusto"
+"42","Bahia absinthifolia",129,"Agapostemon angelicus",NA,NA,NA,NA,"Bahia absinthifolia","Estados Unidos|México","Sinónimo","Picradeniopsis absinthifolia","(Benth.) B.G.Baldwin","Especie","Asteraceae","Herbácea"
+"43","Baileya multiradiata",16,"Agapostemon angelicus",31.3071,-109.25682,"MX","MÃ©xico","Baileya multiradiata","Estados Unidos|México","Aceptado","Baileya multiradiata","Harv. & A.Gray ex Torr.","Especie","Asteraceae","Herbácea"
+"44","Baileya multiradiata",86,"Agapostemon angelicus",NA,NA,NA,NA,"Baileya multiradiata","Estados Unidos|México","Aceptado","Baileya multiradiata","Harv. & A.Gray ex Torr.","Especie","Asteraceae","Herbácea"
+"45","Berberis wilcoxii",632,"Agapostemon (Agapostemon) angelicus",33.55806,-105.7072,"US","Estados Unidos","Berberis wilcoxii","Estados Unidos","Aceptado","Berberis wilcoxii","Kearney","Especie","Berberidaceae","Arbusto"
+"46","Berlandiera",661,"Agapostemon (Agapostemon) angelicus",31.83528,-109.0306,"US","Estados Unidos","Berlandiera","Estados Unidos","Aceptado","Berlandiera","DC.","Género","Asteraceae","Herbácea"
+"47","Bigelowia",653,"Agapostemon (Agapostemon) angelicus",36.21833,-105.8728,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"48","Bigelowia",638,"Agapostemon (Agapostemon) angelicus",36.2075,-105.9606,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"49","Brassicaceae",580,"Agapostemon angelicus",37.2775,-112.3279,"US","Estados Unidos","Brassicaceae","Canadá|Estados Unidos|México","Aceptado","Brassicaceae","Burnett","Familia","Brassicaceae",""
+"50","Brassicaceae",383,"Agapostemon angelicus",37.9664,-111.1445,"US","Estados Unidos","Brassicaceae","Canadá|Estados Unidos|México","Aceptado","Brassicaceae","Burnett","Familia","Brassicaceae",""
+"51","Brassicaceae",226,"Agapostemon angelicus",NA,NA,NA,NA,"Brassicaceae","Canadá|Estados Unidos|México","Aceptado","Brassicaceae","Burnett","Familia","Brassicaceae",""
+"52","Brassicaceae",565,"Agapostemon angelicus",37.3066,-111.1437,"US","Estados Unidos","Brassicaceae","Canadá|Estados Unidos|México","Aceptado","Brassicaceae","Burnett","Familia","Brassicaceae",""
+"53","Brassicaceae",579,"Agapostemon angelicus",37.5068,-111.349,"US","Estados Unidos","Brassicaceae","Canadá|Estados Unidos|México","Aceptado","Brassicaceae","Burnett","Familia","Brassicaceae",""
+"54","Calochortus aureus",497,"Agapostemon angelicus",37.4284,-111.2203,"US","Estados Unidos","Calochortus aureus","Estados Unidos","Aceptado","Calochortus aureus","S. Watson","Especie","Liliaceae","Herbácea"
+"55","Calochortus aureus",297,"Agapostemon angelicus",37.537,-111.322,"US","Estados Unidos","Calochortus aureus","Estados Unidos","Aceptado","Calochortus aureus","S. Watson","Especie","Liliaceae","Herbácea"
+"56","Calochortus aureus",214,"Agapostemon angelicus",NA,NA,NA,NA,"Calochortus aureus","Estados Unidos","Aceptado","Calochortus aureus","S. Watson","Especie","Liliaceae","Herbácea"
+"57","Calochortus aureus",496,"Agapostemon angelicus",37.3001,-111.13506,"US","Estados Unidos","Calochortus aureus","Estados Unidos","Aceptado","Calochortus aureus","S. Watson","Especie","Liliaceae","Herbácea"
+"58","Calochortus aureus",486,"Agapostemon angelicus",37.276,-111.1162,"US","Estados Unidos","Calochortus aureus","Estados Unidos","Aceptado","Calochortus aureus","S. Watson","Especie","Liliaceae","Herbácea"
+"59","Calochortus aureus",571,"Agapostemon angelicus",37.5188,-111.3177,"US","Estados Unidos","Calochortus aureus","Estados Unidos","Aceptado","Calochortus aureus","S. Watson","Especie","Liliaceae","Herbácea"
+"60","Calochortus aureus",504,"Agapostemon angelicus",37.2982,-111.113,"US","Estados Unidos","Calochortus aureus","Estados Unidos","Aceptado","Calochortus aureus","S. Watson","Especie","Liliaceae","Herbácea"
+"61","Calochortus aureus",469,"Agapostemon angelicus",37.3066,-111.1437,"US","Estados Unidos","Calochortus aureus","Estados Unidos","Aceptado","Calochortus aureus","S. Watson","Especie","Liliaceae","Herbácea"
+"62","Calycoseris wrightii",45,"Agapostemon angelicus",31.33333,-109.24028,"US","Estados Unidos","Calycoseris wrightii","Estados Unidos|México","Aceptado","Calycoseris wrightii","A. Gray","Especie","Asteraceae","Herbácea"
+"63","Calycoseris wrightii",120,"Agapostemon angelicus",NA,NA,NA,NA,"Calycoseris wrightii","Estados Unidos|México","Aceptado","Calycoseris wrightii","A. Gray","Especie","Asteraceae","Herbácea"
+"64","Centaurea",605,"Agapostemon (Agapostemon) angelicus",42.86667,-106.8056,"US","Estados Unidos","Centaurea","Argelia|Austria|Canadá|España|Estados Unidos|Grecia","Aceptado","Centaurea","L.","Género","Asteraceae","Arbusto|Herbácea"
+"65","Centaurea diffusa",4,"Agapostemon angelicus",40.09611,-105.27944,"US","Estados Unidos","Centaurea diffusa","Estados Unidos","Aceptado","Centaurea diffusa","Lam.","Especie","Asteraceae","Herbácea"
+"66","Cercidium",629,"Agapostemon (Agapostemon) angelicus",30.5881,-103.81,"US","Estados Unidos","Cercidium","Estados Unidos|México","Sinónimo","Parkinsonia","Plum. ex L.","Género","Fabaceae","Árbol|Arbusto"
+"67","Cevallia sinuata",9,"Agapostemon angelicus",32.12637,-109.51418,"US","Estados Unidos","Cevallia sinuata","Estados Unidos|México","Aceptado","Cevallia sinuata","Lag.","Especie","Loasaceae","Arbusto|Herbácea"
+"68","Chaenactis stevioides",123,"Agapostemon angelicus",NA,NA,NA,NA,"Chaenactis stevioides","Estados Unidos|México","Aceptado","Chaenactis stevioides","Hook. & Arn.","Especie","Asteraceae","Herbácea"
+"69","Chaenactis stevioides",41,"Agapostemon angelicus",31.33333,-109.24028,"US","Estados Unidos","Chaenactis stevioides","Estados Unidos|México","Aceptado","Chaenactis stevioides","Hook. & Arn.","Especie","Asteraceae","Herbácea"
+"70","Chaenactis stevioides",585,"Agapostemon angelicus",37.0844,-111.9288,"US","Estados Unidos","Chaenactis stevioides","Estados Unidos|México","Aceptado","Chaenactis stevioides","Hook. & Arn.","Especie","Asteraceae","Herbácea"
+"71","Chaetopappa ericoides",117,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"72","Chamaesaracha",106,"Agapostemon angelicus",NA,NA,NA,NA,"Chamaesaracha","Estados Unidos|México","Aceptado","Chamaesaracha","(A. Gray) Benth. & Hook. f.","Género","Solanaceae","Herbácea"
+"73","Chrysothamnus",364,"Agapostemon angelicus",37.8651,-111.317,"US","Estados Unidos","Chrysothamnus","Estados Unidos","Aceptado","Chrysothamnus","Nutt.","Género","Asteraceae","Arbusto"
+"74","Chrysothamnus",419,"Agapostemon angelicus",37.2674,-111.905,"US","Estados Unidos","Chrysothamnus","Estados Unidos","Aceptado","Chrysothamnus","Nutt.","Género","Asteraceae","Arbusto"
+"75","Chrysothamnus",643,"Agapostemon (Agapostemon) angelicus",37.41667,-113.6236,"US","Estados Unidos","Chrysothamnus","Estados Unidos","Aceptado","Chrysothamnus","Nutt.","Género","Asteraceae","Arbusto"
+"76","Chrysothamnus",321,"Agapostemon angelicus",37.9199,-111.1398,"US","Estados Unidos","Chrysothamnus","Estados Unidos","Aceptado","Chrysothamnus","Nutt.","Género","Asteraceae","Arbusto"
+"77","Chrysothamnus",295,"Agapostemon angelicus",37.8398,-111.1165,"US","Estados Unidos","Chrysothamnus","Estados Unidos","Aceptado","Chrysothamnus","Nutt.","Género","Asteraceae","Arbusto"
+"78","Chrysothamnus",475,"Agapostemon angelicus",37.5068,-111.349,"US","Estados Unidos","Chrysothamnus","Estados Unidos","Aceptado","Chrysothamnus","Nutt.","Género","Asteraceae","Arbusto"
+"79","Chrysothamnus",200,"Agapostemon angelicus",NA,NA,NA,NA,"Chrysothamnus","Estados Unidos","Aceptado","Chrysothamnus","Nutt.","Género","Asteraceae","Arbusto"
+"80","Chrysothamnus",424,"Agapostemon angelicus",37.29953,-111.12777,"US","Estados Unidos","Chrysothamnus","Estados Unidos","Aceptado","Chrysothamnus","Nutt.","Género","Asteraceae","Arbusto"
+"81","Chrysothamnus",507,"Agapostemon angelicus",37.4764,-111.8874,"US","Estados Unidos","Chrysothamnus","Estados Unidos","Aceptado","Chrysothamnus","Nutt.","Género","Asteraceae","Arbusto"
+"82","Chrysothamnus",652,"Agapostemon (Agapostemon) angelicus",37.33806,-113.6922,"US","Estados Unidos","Chrysothamnus","Estados Unidos","Aceptado","Chrysothamnus","Nutt.","Género","Asteraceae","Arbusto"
+"83","Chrysothamnus depressus",280,"Agapostemon angelicus",38.0126,-111.3754,"US","Estados Unidos","Chrysothamnus depressus","Estados Unidos","Aceptado","Chrysothamnus depressus","Nutt.","Especie","Asteraceae","Arbusto"
+"84","Chrysothamnus depressus",382,"Agapostemon angelicus",37.6869,-111.5039,"US","Estados Unidos","Chrysothamnus depressus","Estados Unidos","Aceptado","Chrysothamnus depressus","Nutt.","Especie","Asteraceae","Arbusto"
+"85","Chrysothamnus depressus",271,"Agapostemon angelicus",NA,NA,NA,NA,"Chrysothamnus depressus","Estados Unidos","Aceptado","Chrysothamnus depressus","Nutt.","Especie","Asteraceae","Arbusto"
+"86","Chrysothamnus greenei",265,"Agapostemon angelicus",NA,NA,NA,NA,"Chrysothamnus greenei","Estados Unidos","Aceptado","Chrysothamnus greenei","(A.Gray) Greene","Especie","Asteraceae","Arbusto"
+"87","Chrysothamnus greenei",441,"Agapostemon angelicus",37.2634,-112.2565,"US","Estados Unidos","Chrysothamnus greenei","Estados Unidos","Aceptado","Chrysothamnus greenei","(A.Gray) Greene","Especie","Asteraceae","Arbusto"
+"88","Cirsium",406,"Agapostemon angelicus",37.8175,-111.1785,"US","Estados Unidos","Cirsium","Canadá|Estados Unidos|Estados Unidos|Canadá|México","Aceptado","Cirsium","Mill.","Género","Asteraceae","Herbácea"
+"89","Cirsium",244,"Agapostemon angelicus",NA,NA,NA,NA,"Cirsium","Canadá|Estados Unidos|Estados Unidos|Canadá|México","Aceptado","Cirsium","Mill.","Género","Asteraceae","Herbácea"
+"90","Cirsium",458,"Agapostemon angelicus",37.2941,-111.1414,"US","Estados Unidos","Cirsium","Canadá|Estados Unidos|Estados Unidos|Canadá|México","Aceptado","Cirsium","Mill.","Género","Asteraceae","Herbácea"
+"91","Cirsium",349,"Agapostemon angelicus",37.7761,-111.4196,"US","Estados Unidos","Cirsium","Canadá|Estados Unidos|Estados Unidos|Canadá|México","Aceptado","Cirsium","Mill.","Género","Asteraceae","Herbácea"
+"92","Cirsium scariosum",290,"Agapostemon angelicus",38.099,-111.3137,"US","Estados Unidos","Cirsium scariosum","Estados Unidos","Aceptado","Cirsium scariosum","Nutt.","Especie","Asteraceae","Herbácea"
+"93","Cirsium vulgare",593,"Agapostemon angelicus",37.2941,-111.1414,"US","Estados Unidos","Cirsium vulgare","Canadá|Dinamarca|Estados Unidos","Aceptado","Cirsium vulgare","(Savi) Ten.","Especie","Asteraceae","Herbácea"
+"94","Cirsium vulgare",259,"Agapostemon angelicus",NA,NA,NA,NA,"Cirsium vulgare","Canadá|Dinamarca|Estados Unidos","Aceptado","Cirsium vulgare","(Savi) Ten.","Especie","Asteraceae","Herbácea"
+"95","Cleome",615,"Agapostemon (Agapostemon) angelicus",35.55948,-111.6506,"US","Estados Unidos","Cleome","Estados Unidos","Aceptado","Cleome","L.","Género","Cleomaceae","Arbusto|Herbácea"
+"96","Cleome",650,"Agapostemon (Agapostemon) angelicus",39.29389,-112.6275,"US","Estados Unidos","Cleome","Estados Unidos","Aceptado","Cleome","L.","Género","Cleomaceae","Arbusto|Herbácea"
+"97","Cleome",623,"Agapostemon (Agapostemon) angelicus",41.82111,-113.4,"US","Estados Unidos","Cleome","Estados Unidos","Aceptado","Cleome","L.","Género","Cleomaceae","Arbusto|Herbácea"
+"98","Convolvulus",609,"Agapostemon (Agapostemon) angelicus",NA,NA,NA,NA,"Convolvulus","Estados Unidos|Grecia|Venezuela","Aceptado","Convolvulus","L.","Género","Convolvulaceae","Arbusto|Herbácea|Trepador"
+"99","Convolvulus arvensis",368,"Agapostemon angelicus",37.5412,-112.1401,"US","Estados Unidos","Convolvulus arvensis","Estados Unidos|Grecia|México","Aceptado","Convolvulus arvensis","L.","Especie","Convolvulaceae","Herbácea|Trepador"
+"100","Convolvulus arvensis",248,"Agapostemon angelicus",NA,NA,NA,NA,"Convolvulus arvensis","Estados Unidos|Grecia|México","Aceptado","Convolvulus arvensis","L.","Especie","Convolvulaceae","Herbácea|Trepador"
+"101","Convolvulus arvensis",174,"Agapostemon angelicus",33.71,-101.6,"US","Estados Unidos","Convolvulus arvensis","Estados Unidos|Grecia|México","Aceptado","Convolvulus arvensis","L.","Especie","Convolvulaceae","Herbácea|Trepador"
+"102","Cordylanthus wrightii",260,"Agapostemon angelicus",NA,NA,NA,NA,"Cordylanthus wrightii","Estados Unidos","Aceptado","Cordylanthus wrightii ","A. Gray","Especie","Orobanchaceae","Herbácea"
+"103","Cordylanthus wrightii",550,"Agapostemon angelicus",37.303,-112.2742,"US","Estados Unidos","Cordylanthus wrightii","Estados Unidos","Aceptado","Cordylanthus wrightii ","A. Gray","Especie","Orobanchaceae","Herbácea"
+"104","Crepis",234,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"105","Crepis",488,"Agapostemon angelicus",37.2941,-111.1414,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"106","Croton",150,"Agapostemon angelicus",31.35,-106.4667,"MX","MÃ©xico",NA,NA,NA,NA,NA,NA,NA,NA
+"107","Cryptantha",97,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"108","Cryptantha",557,"Agapostemon angelicus",37.3603,-112.185,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"109","Cryptantha pterocarya",210,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"110","Cryptantha pterocarya",563,"Agapostemon angelicus",37.2892,-111.1379,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"111","Cylindropuntia californica",158,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"112","Cylindropuntia munzii",157,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"113","Cylindropuntia spinosior",78,"Agapostemon angelicus",31.32222,-109.07972,"MX","MÃ©xico",NA,NA,NA,NA,NA,NA,NA,NA
+"114","Cylindropuntia spinosior",98,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"115","Dalea",119,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"116","Dalea",646,"Agapostemon (Agapostemon) angelicus",32.17,-109.93,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"117","Dalea searlsiae",224,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"118","Dalea searlsiae",456,"Agapostemon angelicus",37.3603,-112.185,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"119","Dasylirion wheeleri",108,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"120","Dasylirion wheeleri",662,"Agapostemon (Agapostemon) angelicus",31.67944,-110.6547,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"121","Descurainia sophia ex",231,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"122","Descurainia sophia ex",558,"Agapostemon angelicus",37.3603,-112.185,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"123","Dyssodia",22,"Agapostemon angelicus",31.33056,-109.21,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"124","Dyssodia",99,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"125","Ericameria nauseosa",311,"Agapostemon angelicus",37.7645,-111.4046,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"126","Ericameria nauseosa",205,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"127","Ericameria nauseosa",323,"Agapostemon angelicus",37.8651,-111.317,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"128","Ericameria nauseosa",303,"Agapostemon angelicus",37.6447,-111.0702,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"129","Ericameria nauseosa",307,"Agapostemon angelicus",37.9219,-111.1513,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"130","Ericameria nauseosa",326,"Agapostemon angelicus",37.8398,-111.1165,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"131","Ericameria nauseosa",330,"Agapostemon angelicus",37.9664,-111.1445,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"132","Ericameria nauseosa",332,"Agapostemon angelicus",37.537,-111.322,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"133","Ericameria nauseosa",340,"Agapostemon angelicus",37.7894,-111.1682,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"134","Ericameria nauseosa",342,"Agapostemon angelicus",37.9286,-111.1832,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"135","Ericameria nauseosa",437,"Agapostemon angelicus",37.2877,-111.1223,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"136","Ericameria nauseosa",445,"Agapostemon angelicus",37.2609,-112.3246,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"137","Ericameria nauseosa",446,"Agapostemon angelicus",37.1432,-111.9118,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"138","Ericameria nauseosa",410,"Agapostemon angelicus",37.29953,-111.12777,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"139","Ericameria nauseosa",420,"Agapostemon angelicus",37.2957,-112.2624,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"140","Ericameria nauseosa",431,"Agapostemon angelicus",37.3019,-111.1437,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"141","Ericameria nauseosa",433,"Agapostemon angelicus",37.2866,-111.121,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"142","Ericameria nauseosa",436,"Agapostemon angelicus",37.2929,-111.1231,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"143","Ericameria nauseosa",480,"Agapostemon angelicus",37.5068,-111.4078,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"144","Ericameria parryi",215,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"145","Ericameria parryi",356,"Agapostemon angelicus",37.6952,-111.7611,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"146","Ericameria parryi",438,"Agapostemon angelicus",37.1774,-111.9151,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"147","Ericameria parryi",463,"Agapostemon angelicus",37.29953,-111.12777,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"148","Ericameria parryi",575,"Agapostemon angelicus",37.3322,-111.8752,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"149","Erigeron",30,"Agapostemon angelicus",31.33056,-109.21,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"150","Erigeron",96,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"151","Erigeron",171,"Agapostemon angelicus",40.45,-102.8,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"152","Erigeron",288,"Agapostemon angelicus",37.9313,-111.6912,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"153","Erigeron",494,"Agapostemon angelicus",37.2982,-111.113,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"154","Erigeron bellidiastrum",233,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"155","Erigeron bellidiastrum",432,"Agapostemon angelicus",37.2941,-111.1414,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"156","Erigeron compositus",313,"Agapostemon angelicus",37.7645,-111.4046,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"157","Erigeron compositus",253,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"158","Erigeron compositus",301,"Agapostemon angelicus",37.8651,-111.317,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"159","Erigeron pumilus",267,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"160","Erigeron pumilus",531,"Agapostemon angelicus",37.29953,-111.12777,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"161","Eriogonum",201,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"162","Eriogonum",520,"Agapostemon angelicus",37.2957,-112.2624,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"163","Erysimum asperum",229,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"164","Erysimum asperum",583,"Agapostemon angelicus",37.30007,-111.1456,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"165","Erysimum asperum",584,"Agapostemon angelicus",37.5068,-111.4078,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"166","Eysenhardtia spinosa",156,"Agapostemon angelicus",29.355,-106.083,"MX","MÃ©xico",NA,NA,NA,NA,NA,NA,NA,NA
+"167","Gaillardia",146,"Agapostemon angelicus",31.59417,-109.06888,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"168","Gaillardia",664,"Agapostemon (Agapostemon) angelicus",35,-108.97,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"169","Gaillardia",669,"Agapostemon (Agapostemon) angelicus",32.2253,-95.0575,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"170","Gaillardia pinnatifida",617,"Agapostemon (Agapostemon) angelicus",31.8022,-97.0914,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"171","Gaillardia pulchella",7,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"172","Gaillardia pulchella",594,"Agapostemon angelicus",33.4820597558,-112.3034584522,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"173","Geraniaceae",306,"Agapostemon angelicus",37.9297,-111.6429,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"174","Geranium viscosissimum",302,"Agapostemon angelicus",37.9453,-111.6444,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"175","Gilia",266,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"176","Gilia",482,"Agapostemon angelicus",37.3811,-111.1126,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"177","Gilia",481,"Agapostemon angelicus",37.441,-111.2307,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"178","Gossypium",5,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"179","Gossypium hirsutum",166,"Agapostemon angelicus",35.35,-101.3,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"180","Gossypium hirsutum",170,"Agapostemon angelicus",35.26,-100.9,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"181","Grindelia",644,"Agapostemon (Agapostemon) angelicus",37.59947,-101.7506,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"182","Grindelia squarrosa",162,"Agapostemon angelicus",33.46,-102.6,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"183","Grindelia squarrosa",184,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"184","Grindelia squarrosa",479,"Agapostemon angelicus",37.3822,-111.0374,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"185","Grindelia squarrosa",312,"Agapostemon angelicus",37.84737,-111.35395,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"186","Grindelia squarrosa",425,"Agapostemon angelicus",37.441,-111.2307,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"187","Grindelia squarrosa",474,"Agapostemon angelicus",37.4817,-111.2205,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"188","Gutierrezia",657,"Agapostemon (Agapostemon) angelicus",39.08,-110.7097,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"189","Gutierrezia sarothrae",204,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"190","Gutierrezia sarothrae",308,"Agapostemon angelicus",37.9286,-111.1832,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"191","Gutierrezia sarothrae",327,"Agapostemon angelicus",37.9829,-111.1782,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"192","Gutierrezia sarothrae",470,"Agapostemon angelicus",37.3066,-111.1437,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"193","Helenium laciniatum",154,"Agapostemon angelicus",33.64166,-105.87694,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"194","Helianthus",149,"Agapostemon angelicus",31.35,-106.4667,"MX","MÃ©xico",NA,NA,NA,NA,NA,NA,NA,NA
+"195","Helianthus",270,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"196","Helianthus",152,"Agapostemon angelicus",40.203,-104.325,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"197","Helianthus",155,"Agapostemon angelicus",39.70389,-102.03965,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"198","Helianthus",526,"Agapostemon angelicus",37.0844,-111.9288,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"199","Helianthus",645,"Agapostemon (Agapostemon) angelicus",37.985,-103.8551,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"200","Helianthus",613,"Agapostemon (Agapostemon) angelicus",31.63,-108.8067,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"201","Helianthus",665,"Agapostemon (Agapostemon) angelicus",36.02842,-109.5447,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"202","Helianthus",668,"Agapostemon (Agapostemon) angelicus",42.0931,-102.8697,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"203","Helianthus",651,"Agapostemon (Agapostemon) angelicus",31.69028,-109.1317,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"204","Helianthus annuus",1,"Agapostemon angelicus",31.586731,-108.86935,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"205","Helianthus annuus",607,"Agapostemon (Agapostemon) angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"206","Helianthus annuus",169,"Agapostemon angelicus",33.71,-101.6,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"207","Helianthus annuus",127,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"208","Helianthus annuus",176,"Agapostemon angelicus",34.54,-102.2,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"209","Helianthus annuus",434,"Agapostemon angelicus",37.1936,-111.9205,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"210","Helianthus annuus",452,"Agapostemon angelicus",37.484,-111.2212,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"211","Helianthus annuus",334,"Agapostemon angelicus",37.5903,-111.9328,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"212","Helianthus annuus",337,"Agapostemon angelicus",37.9656,-111.1454,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"213","Helianthus annuus",338,"Agapostemon angelicus",37.5908,-111.9324,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"214","Helianthus annuus",444,"Agapostemon angelicus",37.4764,-111.8874,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"215","Helianthus annuus",625,"Agapostemon (Agapostemon) angelicus",46.4083,-105.84,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"216","Helianthus annuus",451,"Agapostemon angelicus",37.441,-111.2307,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"217","Helianthus annuus",667,"Agapostemon (Agapostemon) angelicus",38.14722,-98.08333,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"218","Helianthus annuus",640,"Agapostemon (Agapostemon) angelicus",34.60167,-105.2078,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"219","Helianthus annuus",635,"Agapostemon (Agapostemon) angelicus",35.02417,-110.5201,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"220","Helianthus annuus",626,"Agapostemon (Agapostemon) angelicus",41.1239,-100.9185,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"221","Helianthus annuus",656,"Agapostemon (Agapostemon) angelicus",32.22167,-110.9258,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"222","Helianthus annuus",663,"Agapostemon (Agapostemon) angelicus",35.02417,-110.8732,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"223","Helianthus ciliaris",165,"Agapostemon angelicus",33.49,-102.4,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"224","Helianthus ciliaris",168,"Agapostemon angelicus",33.68,-102.2,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"225","Helianthus ciliaris",175,"Agapostemon angelicus",33.46,-102.6,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"226","Helianthus ciliaris",182,"Agapostemon angelicus",34.54,-102.2,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"227","Helianthus petiolaris",212,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"228","Helianthus petiolaris",369,"Agapostemon angelicus",37.819,-111.0976,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"229","Helianthus petiolaris",292,"Agapostemon angelicus",37.6924,-111.379,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"230","Helianthus petiolaris",614,"Agapostemon (Agapostemon) angelicus",37.86528,-100.5461,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"231","Helianthus petiolaris",620,"Agapostemon (Agapostemon) angelicus",47.1064,-104.7103,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"232","Helianthus petiolaris",513,"Agapostemon angelicus",37.5102,-111.3435,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"233","Helianthus petiolaris",555,"Agapostemon angelicus",37.5068,-111.349,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"234","Helianthus petiolaris",519,"Agapostemon angelicus",37.441,-111.2307,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"235","Helianthus petiolaris",509,"Agapostemon angelicus",37.1248,-111.976,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"236","Helianthus petiolaris",508,"Agapostemon angelicus",37.4284,-111.2203,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"237","Helianthus petiolaris",642,"Agapostemon (Agapostemon) angelicus",37.97722,-100.8628,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"238","Helianthus petiolaris",559,"Agapostemon angelicus",37.4265,-111.2287,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"239","Helianthus petiolaris",633,"Agapostemon (Agapostemon) angelicus",38.46972,-101.7522,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"240","Helianthus petiolaris",619,"Agapostemon (Agapostemon) angelicus",37.94269,-100.87266,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"241","Helianthus petiolaris",546,"Agapostemon angelicus",37.2941,-111.1414,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"242","Helianthus petiolaris",552,"Agapostemon angelicus",37.3811,-111.1126,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"243","Helianthus petiolaris",639,"Agapostemon (Agapostemon) angelicus",34.25639,-103.3483,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"244","Helianthus petiolaris",556,"Agapostemon angelicus",37.3744,-111.0404,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"245","Helianthus petiolaris",598,"Agapostemon (Agapostemon) angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"246","Helianthus petiolaris",612,"Agapostemon (Agapostemon) angelicus",38.46972,-101.5676,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"247","Helianthus petiolaris",616,"Agapostemon (Agapostemon) angelicus",39.14172,-100.2319,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"248","Helianthus petiolaris",649,"Agapostemon (Agapostemon) angelicus",33.65995,-104.2032,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"249","Helianthus petiolaris",601,"Agapostemon (Agapostemon) angelicus",34.5467,-100.4904,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"250","Heliomeris multiflora",408,"Agapostemon angelicus",37.303,-112.2742,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"251","Heliomeris multiflora",218,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"252","Heliomeris multiflora",506,"Agapostemon angelicus",37.2117,-112.1227,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"253","Heliomeris multiflora",407,"Agapostemon angelicus",37.2957,-112.2624,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"254","Heterotheca stenophylla",177,"Agapostemon angelicus",34.39,-101.5,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"255","Heterotheca subaxillaris",135,"Agapostemon angelicus",31.571,-108.876,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"256","Heterotheca subaxillaris",143,"Agapostemon angelicus",28.4333,-108.3833,"MX","MÃ©xico",NA,NA,NA,NA,NA,NA,NA,NA
+"257","Heterotheca subaxillaris",611,"Agapostemon (Agapostemon) angelicus",31.83528,-109.0306,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"258","Heterotheca villosa",372,"Agapostemon angelicus",37.85062,-111.35437,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"259","Heterotheca villosa",188,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"260","Heterotheca villosa",371,"Agapostemon angelicus",37.84737,-111.35395,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"261","Heterotheca villosa",548,"Agapostemon angelicus",37.3019,-111.1437,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"262","Hymenopappus filifolius",225,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"263","Hymenopappus filifolius",277,"Agapostemon angelicus",37.7728,-111.4351,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"264","Hymenopappus filifolius",404,"Agapostemon angelicus",37.8553,-111.4511,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"265","Hymenopappus filifolius",374,"Agapostemon angelicus",37.8494,-111.313,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"266","Hymenopappus filifolius",376,"Agapostemon angelicus",37.85062,-111.35437,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"267","Hymenoxys odorata",105,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"268","Ipomopsis gunnisonii",230,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"269","Ipomopsis gunnisonii",473,"Agapostemon angelicus",37.441,-111.2307,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"270","Ipomopsis longiflora",101,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"271","Kallstroemia",139,"Agapostemon angelicus",31.493,-109.338,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"272","Larrea tridentata",10,"Agapostemon angelicus",29.1955,-103.0256,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"273","Larrea tridentata",11,"Agapostemon angelicus",34.85,-115.1166666667,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"274","Larrea tridentata",12,"Agapostemon angelicus",33.8813,-113.545,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"275","Larrea tridentata",13,"Agapostemon angelicus",32.1888,-111.2195,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"276","Larrea tridentata",21,"Agapostemon angelicus",31.33056,-109.21,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"277","Larrea tridentata",36,"Agapostemon angelicus",31.31972,-109.19333,"MX","MÃ©xico",NA,NA,NA,NA,NA,NA,NA,NA
+"278","Larrea tridentata",54,"Agapostemon angelicus",31.3332,-109.22361,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"279","Larrea tridentata",56,"Agapostemon angelicus",31.31883,-109.27283,"MX","MÃ©xico",NA,NA,NA,NA,NA,NA,NA,NA
+"280","Larrea tridentata",57,"Agapostemon angelicus",31.32111,-109.21139,"MX","MÃ©xico",NA,NA,NA,NA,NA,NA,NA,NA
+"281","Larrea tridentata",91,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"282","Lepidium",672,"Agapostemon (Agapostemon) angelicus",31.39,-109.49,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"283","Lepidium alyssoides",151,"Agapostemon angelicus",31.35,-106.4667,"MX","MÃ©xico",NA,NA,NA,NA,NA,NA,NA,NA
+"284","Lepidium montanum",240,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"285","Lepidium montanum",317,"Agapostemon angelicus",37.7808,-111.5353,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"286","Lepidium montanum",315,"Agapostemon angelicus",37.7787,-111.5326,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"287","Lepidium montanum",415,"Agapostemon angelicus",37.4817,-111.2205,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"288","Lepidium thurberi",44,"Agapostemon angelicus",31.31944,-109.28417,"MX","MÃ©xico",NA,NA,NA,NA,NA,NA,NA,NA
+"289","Lepidium thurberi",104,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"290","Lorandersonia linifolia",252,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"291","Lorandersonia linifolia",391,"Agapostemon angelicus",37.6924,-111.379,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"292","Lorandersonia linifolia",576,"Agapostemon angelicus",37.441,-111.2307,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"293","Lupinus",227,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"294","Lupinus",502,"Agapostemon angelicus",37.3603,-112.185,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"295","Lupinus",517,"Agapostemon angelicus",37.3019,-111.1437,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"296","Lygodesmia juncea",627,"Agapostemon (Agapostemon) angelicus",35.19806,-111.6506,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"297","Lythrum californicum",69,"Agapostemon angelicus",31.3315,-109.26655,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"298","Lythrum californicum",81,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"299","Lythrum californicum",178,"Agapostemon angelicus",33.49,-102.4,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"300","Machaeranthera",249,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"301","Machaeranthera",454,"Agapostemon angelicus",37.2941,-111.1414,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"302","Machaeranthera canescens",207,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"303","Machaeranthera canescens",465,"Agapostemon angelicus",37.2941,-111.1414,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"304","Machaeranthera tanacetifolia",637,"Agapostemon (Agapostemon) angelicus",34.18611,-103.3339,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"305","Mahonia fremontii",378,"Agapostemon angelicus",37.8501,-111.3099,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"306","Mahonia fremontii",238,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"307","Mahonia fremontii",279,"Agapostemon angelicus",37.7645,-111.4046,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"308","Mahonia fremontii",281,"Agapostemon angelicus",37.6447,-111.0702,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"309","Mahonia fremontii",282,"Agapostemon angelicus",37.7894,-111.1682,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"310","Mahonia fremontii",294,"Agapostemon angelicus",37.5646,-111.3889,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"311","Mahonia fremontii",296,"Agapostemon angelicus",37.6032,-111.9161,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"312","Mahonia fremontii",403,"Agapostemon angelicus",37.9748,-111.2601,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"313","Malacothrix fendleri",20,"Agapostemon angelicus",31.31445,-109.2392,"MX","MÃ©xico",NA,NA,NA,NA,NA,NA,NA,NA
+"314","Malacothrix fendleri",37,"Agapostemon angelicus",31.31972,-109.19333,"MX","MÃ©xico",NA,NA,NA,NA,NA,NA,NA,NA
+"315","Malacothrix fendleri",90,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"316","Malacothrix glabrata",122,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"317","Malvella",84,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"318","Malvella leprosa",160,"Agapostemon angelicus",35.26,-100.9,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"319","Marrubium vulgare",247,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"320","Marrubium vulgare",466,"Agapostemon angelicus",37.3019,-111.1437,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"321","Marrubium vulgare",464,"Agapostemon angelicus",37.303,-112.2742,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"322","Marrubium vulgare",630,"Agapostemon (Agapostemon) angelicus",33.68333,-109.05,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"323","Medicago sativa",167,"Agapostemon angelicus",40.6,-103.5,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"324","Medicago sativa",180,"Agapostemon angelicus",40.56,-103.5,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"325","Medicago sativa",216,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"326","Medicago sativa",359,"Agapostemon angelicus",37.9138,-111.2507,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"327","Melilotus",631,"Agapostemon (Agapostemon) angelicus",38.08444,-99.89306,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"328","Melilotus albus",206,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"329","Melilotus albus",289,"Agapostemon angelicus",37.7808,-111.5353,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"330","Melilotus albus",291,"Agapostemon angelicus",37.85062,-111.35437,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"331","Melilotus albus",398,"Agapostemon angelicus",37.8651,-111.317,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"332","Melilotus albus",476,"Agapostemon angelicus",37.4048,-111.6497,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"333","Melilotus officinalis",130,"Agapostemon angelicus",31.8825,-109.206,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"334","Melilotus officinalis",179,"Agapostemon angelicus",40.59,-103.5,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"335","Melilotus officinalis",187,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"336","Melilotus officinalis",284,"Agapostemon angelicus",37.7296,-111.6332,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"337","Melilotus officinalis",367,"Agapostemon angelicus",37.84737,-111.35395,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"338","Melilotus officinalis",285,"Agapostemon angelicus",37.9286,-111.1152,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"339","Melilotus officinalis",286,"Agapostemon angelicus",37.85062,-111.35437,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"340","Melilotus officinalis",393,"Agapostemon angelicus",37.9664,-111.1445,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"341","Melilotus officinalis",400,"Agapostemon angelicus",37.8651,-111.317,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"342","Melilotus officinalis",621,"Agapostemon (Agapostemon) angelicus",38.05944,-100.5612,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"343","Melilotus officinalis",530,"Agapostemon angelicus",37.3603,-112.185,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"344","Mentzelia dispersa",256,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"345","Mentzelia dispersa",459,"Agapostemon angelicus",37.3554,-111.0995,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"346","Mentzelia pumila",24,"Agapostemon angelicus",31.3195,-109.27028,"MX","MÃ©xico",NA,NA,NA,NA,NA,NA,NA,NA
+"347","Mentzelia pumila",94,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"348","Mentzelia pumila",670,"Agapostemon (Agapostemon) angelicus",31.34444,-109.5278,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"349","Monarda",628,"Agapostemon (Agapostemon) angelicus",38.18056,-98.62016,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"350","Monarda",673,"Agapostemon (Agapostemon) angelicus",38.06083,-97.92944,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"351","Oenothera",134,"Agapostemon angelicus",32.569,-108.379,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"352","Oenothera",198,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"353","Oenothera",278,"Agapostemon angelicus",37.5608,-111.3236,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"354","Oenothera",397,"Agapostemon angelicus",37.7276,-111.5316,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"355","Oenothera",666,"Agapostemon (Agapostemon) angelicus",41.9764,-100.5744,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"356","Oenothera caespitosa",416,"Agapostemon angelicus",37.29305,-111.1505,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"357","Oenothera caespitosa",220,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"358","Opuntia",6,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"359","Opuntia",68,"Agapostemon angelicus",31.31194,-109.11333,"MX","MÃ©xico",NA,NA,NA,NA,NA,NA,NA,NA
+"360","Opuntia",411,"Agapostemon angelicus",37.3019,-111.1437,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"361","Opuntia",324,"Agapostemon angelicus",37.828,-111.1092,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"362","Opuntia",304,"Agapostemon angelicus",37.7894,-111.1682,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"363","Opuntia",305,"Agapostemon angelicus",37.8994,-111.2773,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"364","Opuntia",329,"Agapostemon angelicus",37.5452,-111.322,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"365","Opuntia",409,"Agapostemon angelicus",37.29305,-111.1505,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"366","Opuntia",421,"Agapostemon angelicus",37.5068,-111.349,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"367","Opuntia",427,"Agapostemon angelicus",37.4817,-111.2205,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"368","Opuntia engelmannii",40,"Agapostemon angelicus",31.31617,-109.1872,"MX","MÃ©xico",NA,NA,NA,NA,NA,NA,NA,NA
+"369","Opuntia engelmannii",77,"Agapostemon angelicus",31.32222,-109.07972,"MX","MÃ©xico",NA,NA,NA,NA,NA,NA,NA,NA
+"370","Opuntia engelmannii",82,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"371","Opuntia erinacea",194,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"372","Opuntia erinacea",484,"Agapostemon angelicus",37.2941,-111.1414,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"373","Opuntia erinacea",493,"Agapostemon angelicus",37.4997,-111.4002,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"374","Opuntia erinacea",298,"Agapostemon angelicus",37.5487,-111.3268,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"375","Opuntia erinacea",299,"Agapostemon angelicus",37.7645,-111.4046,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"376","Opuntia erinacea",492,"Agapostemon angelicus",37.346,-111.2135,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"377","Opuntia erinacea",414,"Agapostemon angelicus",37.5046,-111.3999,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"378","Opuntia magenta",39,"Agapostemon angelicus",31.31972,-109.19333,"MX","MÃ©xico",NA,NA,NA,NA,NA,NA,NA,NA
+"379","Opuntia magenta",95,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"380","Opuntia phaeacantha",38,"Agapostemon angelicus",31.31972,-109.19333,"MX","MÃ©xico",NA,NA,NA,NA,NA,NA,NA,NA
+"381","Opuntia phaeacantha",74,"Agapostemon angelicus",31.32222,-109.07972,"MX","MÃ©xico",NA,NA,NA,NA,NA,NA,NA,NA
+"382","Opuntia phaeacantha",75,"Agapostemon angelicus",31.31617,-109.1872,"MX","MÃ©xico",NA,NA,NA,NA,NA,NA,NA,NA
+"383","Opuntia phaeacantha",93,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"384","Opuntia polyacantha",208,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"385","Opuntia polyacantha",392,"Agapostemon angelicus",37.9227,-111.2198,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"386","Opuntia polyacantha",352,"Agapostemon angelicus",37.6964,-111.2775,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"387","Opuntia polyacantha",353,"Agapostemon angelicus",37.7787,-111.5326,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"388","Opuntia polyacantha",354,"Agapostemon angelicus",37.7728,-111.4351,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"389","Opuntia polyacantha",370,"Agapostemon angelicus",37.8223,-111.1042,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"390","Opuntia polyacantha",375,"Agapostemon angelicus",37.7808,-111.5353,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"391","Opuntia polyacantha",389,"Agapostemon angelicus",37.7761,-111.4196,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"392","Opuntia polyacantha",512,"Agapostemon angelicus",37.3252,-111.155,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"393","Opuntia polyacantha",523,"Agapostemon angelicus",37.3729,-111.1149,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"394","Opuntia polyacantha",562,"Agapostemon angelicus",37.322,-111.1488,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"395","Opuntia polyacantha",528,"Agapostemon angelicus",37.5068,-111.349,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"396","Opuntia polyacantha",514,"Agapostemon angelicus",37.4284,-111.2203,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"397","Opuntia polyacantha",572,"Agapostemon angelicus",37.4048,-111.6497,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"398","Opuntia santa-rita",73,"Agapostemon angelicus",31.32222,-109.07972,"MX","MÃ©xico",NA,NA,NA,NA,NA,NA,NA,NA
+"399","Opuntia santa-rita",124,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"400","Opuntia whipplei",254,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"401","Opuntia whipplei",533,"Agapostemon angelicus",37.0701,-111.9554,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"402","Opuntia whipplei",498,"Agapostemon angelicus",37.0844,-111.9288,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"403","Oreocarya flava",358,"Agapostemon angelicus",37.5487,-111.3268,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"404","Oreocarya flava",468,"Agapostemon angelicus",37.30007,-111.1456,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"405","Oreocarya flava",264,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"406","Oreocarya flava",357,"Agapostemon angelicus",37.5368,-111.1905,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"407","Oreocarya flava",467,"Agapostemon angelicus",37.484,-111.2212,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"408","Oxytenia acerosa",236,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"409","Oxytenia acerosa",460,"Agapostemon angelicus",37.4048,-111.6497,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"410","Packera multilobata",223,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"411","Packera multilobata",539,"Agapostemon angelicus",37.2775,-112.3279,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"412","Packera multilobata",544,"Agapostemon angelicus",37.322,-111.1488,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"413","Packera multilobata",553,"Agapostemon angelicus",37.2941,-111.1414,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"414","Packera multilobata",515,"Agapostemon angelicus",37.29953,-111.12777,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"415","Packera multilobata",547,"Agapostemon angelicus",37.5085,-111.4069,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"416","Pectis",132,"Agapostemon angelicus",32.168,-108.947,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"417","Penstemon",250,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"418","Penstemon",573,"Agapostemon angelicus",37.3603,-112.185,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"419","Penstemon confusus",245,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"420","Penstemon confusus",322,"Agapostemon angelicus",37.828,-111.1092,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"421","Penstemon confusus",413,"Agapostemon angelicus",37.5068,-111.4078,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"422","Penstemon eatonii",348,"Agapostemon angelicus",37.7645,-111.4046,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"423","Penstemon eatonii",262,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"424","Peritoma lutea",241,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"425","Peritoma lutea",606,"Agapostemon (Agapostemon) angelicus",43.79068,-108.2114,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"426","Peritoma lutea",500,"Agapostemon angelicus",37.484,-111.2212,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"427","Peritoma lutea",388,"Agapostemon angelicus",37.7296,-111.6332,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"428","Peritoma lutea",402,"Agapostemon angelicus",37.7645,-111.4046,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"429","Peritoma lutea",564,"Agapostemon angelicus",37.29953,-111.12777,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"430","Peritoma lutea",567,"Agapostemon angelicus",37.3603,-112.185,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"431","Peritoma lutea",568,"Agapostemon angelicus",37.5068,-111.349,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"432","Peritoma serrulata",195,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"433","Peritoma serrulata",442,"Agapostemon angelicus",37.2866,-111.121,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"434","Peritoma serrulata",443,"Agapostemon angelicus",37.2941,-111.1414,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"435","Peritoma serrulata",435,"Agapostemon angelicus",37.2306,-112.2563,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"436","Peritoma serrulata",457,"Agapostemon angelicus",37.29953,-111.12777,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"437","Peritoma serrulata",462,"Agapostemon angelicus",37.1996,-112.1203,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"438","Peritoma serrulata",671,"Agapostemon (Agapostemon) angelicus",35.27984,-111.5504,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"439","Peritoma serrulata",582,"Agapostemon angelicus",37.3019,-111.1437,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"440","Persicaria amphibia",159,"Agapostemon angelicus",33.49,-102.4,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"441","Persicaria amphibia",173,"Agapostemon angelicus",34.54,-102.2,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"442","Petradoria pumila",192,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"443","Petradoria pumila",540,"Agapostemon angelicus",37.2866,-111.121,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"444","Petradoria pumila",549,"Agapostemon angelicus",37.3097,-111.1334,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"445","Petradoria pumila",521,"Agapostemon angelicus",37.2982,-111.113,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"446","Phacelia",147,"Agapostemon angelicus",35.34083,-111.6825,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"447","Phacelia",660,"Agapostemon (Agapostemon) angelicus",31.94889,-108.8067,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"448","Phacelia",636,"Agapostemon (Agapostemon) angelicus",35.34083,-111.6825,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"449","Phacelia arizonica",62,"Agapostemon angelicus",31.33333,-109.24028,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"450","Phacelia arizonica",88,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"451","Phacelia coerulea",112,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"452","Phacelia hastata",272,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"453","Phacelia hastata",453,"Agapostemon angelicus",37.2983,-111.1571,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"454","Phacelia heterophylla",217,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"455","Phacelia heterophylla",351,"Agapostemon angelicus",37.5608,-111.3236,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"456","Physalis acutifolia",32,"Agapostemon angelicus",31.325,-109.26361,"MX","MÃ©xico",NA,NA,NA,NA,NA,NA,NA,NA
+"457","Physalis acutifolia",47,"Agapostemon angelicus",31.32334,-109.27201,"MX","MÃ©xico",NA,NA,NA,NA,NA,NA,NA,NA
+"458","Physalis acutifolia",61,"Agapostemon angelicus",31.32412,-109.26642,"MX","MÃ©xico",NA,NA,NA,NA,NA,NA,NA,NA
+"459","Physalis acutifolia",65,"Agapostemon angelicus",31.32222,-109.27778,"MX","MÃ©xico",NA,NA,NA,NA,NA,NA,NA,NA
+"460","Physalis acutifolia",111,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"461","Physaria gordonii",15,"Agapostemon angelicus",31.34056,-109.27194,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"462","Physaria gordonii",79,"Agapostemon angelicus",31.31194,-109.11333,"MX","MÃ©xico",NA,NA,NA,NA,NA,NA,NA,NA
+"463","Physaria gordonii",118,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"464","Physaria ludoviciana",268,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"465","Physaria ludoviciana",325,"Agapostemon angelicus",37.7645,-111.4046,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"466","Plectocephalus americanus",595,"Agapostemon angelicus",33.7687707617,-101.82867267,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"467","Pluchea sericea",221,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"468","Pluchea sericea",440,"Agapostemon angelicus",37.1998,-111.9235,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"469","Poliomintha incana",258,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"470","Poliomintha incana",328,"Agapostemon angelicus",37.7761,-111.4196,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"471","Poliomintha incana",418,"Agapostemon angelicus",37.484,-111.2212,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"472","Poliomintha incana",423,"Agapostemon angelicus",37.4817,-111.2205,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"473","Poliomintha incana",336,"Agapostemon angelicus",37.5487,-111.3268,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"474","Poliomintha incana",346,"Agapostemon angelicus",37.8994,-111.2773,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"475","Poliomintha incana",417,"Agapostemon angelicus",37.5229,-111.1919,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"476","Polygonum pensylvanicum",164,"Agapostemon angelicus",34.09,-101.1,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"477","Polygonum pensylvanicum",172,"Agapostemon angelicus",33.98,-102.9,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"478","Porophyllum gracile",114,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"479","Potentilla gracilis",211,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"480","Potentilla gracilis",429,"Agapostemon angelicus",37.2941,-111.1414,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"481","Proserpinaca",110,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"482","Prosopis",145,"Agapostemon angelicus",29.47,-106.3,"MX","MÃ©xico",NA,NA,NA,NA,NA,NA,NA,NA
+"483","Prosopis glandulosa",600,"Agapostemon (Agapostemon) angelicus",33.39417,-104.3493,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"484","Prosopis velutina",33,"Agapostemon angelicus",31.31617,-109.1872,"MX","MÃ©xico",NA,NA,NA,NA,NA,NA,NA,NA
+"485","Prosopis velutina",34,"Agapostemon angelicus",31.31944,-109.28417,"MX","MÃ©xico",NA,NA,NA,NA,NA,NA,NA,NA
+"486","Prosopis velutina",55,"Agapostemon angelicus",31.31883,-109.27283,"MX","MÃ©xico",NA,NA,NA,NA,NA,NA,NA,NA
+"487","Prosopis velutina",113,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"488","Prunus",87,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"489","Psoralea lanceolata",196,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"490","Psoralea lanceolata",529,"Agapostemon angelicus",37.4549,-112.1215,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"491","Psoralea lanceolata",511,"Agapostemon angelicus",37.441,-111.2307,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"492","Psoralea lanceolata",524,"Agapostemon angelicus",37.4815,-111.2289,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"493","Psoralea lanceolata",518,"Agapostemon angelicus",37.3633,-112.1893,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"494","Psorothamnus",131,"Agapostemon angelicus",31.995,-109.044,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"495","Psorothamnus",140,"Agapostemon angelicus",32.23915,-109.77285,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"496","Psorothamnus",141,"Agapostemon angelicus",31.34444,-109.52779,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"497","Psorothamnus",213,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"498","Psorothamnus",574,"Agapostemon angelicus",37.4284,-111.2203,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"499","Ranunculus",333,"Agapostemon angelicus",38.0619,-111.9838,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"500","Ranunculus sceleratus",228,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"501","Ranunculus sceleratus",505,"Agapostemon angelicus",37.2941,-111.1414,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"502","Rhus trilobata",232,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"503","Rhus trilobata",394,"Agapostemon angelicus",37.6032,-111.9161,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"504","Rhus trilobata",570,"Agapostemon angelicus",37.3603,-112.185,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"505","Ribes",350,"Agapostemon angelicus",37.6447,-111.0702,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"506","Ribes leptanthum",274,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"507","Ribes leptanthum",428,"Agapostemon angelicus",37.3019,-111.1437,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"508","Rudbeckia hirta",8,"Agapostemon angelicus",30.1,-97.28,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"509","Salix exigua",191,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"510","Salix exigua",341,"Agapostemon angelicus",37.85062,-111.35437,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"511","Salix exigua",343,"Agapostemon angelicus",37.84737,-111.35395,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"512","Salix exigua",377,"Agapostemon angelicus",37.7645,-111.4046,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"513","Salsola",263,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"514","Salsola",396,"Agapostemon angelicus",37.5102,-111.3435,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"515","Salsola",589,"Agapostemon angelicus",37.5068,-111.349,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"516","Salsola tragus",23,"Agapostemon angelicus",31.33056,-109.21,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"517","Salsola tragus",50,"Agapostemon angelicus",31.30972,-109.27778,"MX","MÃ©xico",NA,NA,NA,NA,NA,NA,NA,NA
+"518","Salsola tragus",63,"Agapostemon angelicus",31.32222,-109.27778,"MX","MÃ©xico",NA,NA,NA,NA,NA,NA,NA,NA
+"519","Salsola tragus",70,"Agapostemon angelicus",31.32083,-109.27601,"MX","MÃ©xico",NA,NA,NA,NA,NA,NA,NA,NA
+"520","Salsola tragus",102,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"521","Sanvitalia",655,"Agapostemon (Agapostemon) angelicus",31.83528,-109.0306,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"522","Sclerocactus whipplei",239,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"523","Sclerocactus whipplei",379,"Agapostemon angelicus",37.5487,-111.3268,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"524","Sclerocactus whipplei",380,"Agapostemon angelicus",37.7645,-111.4046,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"525","Sclerocactus whipplei",543,"Agapostemon angelicus",37.441,-111.2307,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"526","Sclerocactus whipplei",541,"Agapostemon angelicus",37.5322,-111.1788,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"527","Sclerocactus whipplei",542,"Agapostemon angelicus",37.5102,-111.3435,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"528","Senecio",222,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"529","Senecio",537,"Agapostemon angelicus",37.3603,-112.185,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"530","Senecio",384,"Agapostemon angelicus",37.537,-111.322,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"531","Senecio",569,"Agapostemon angelicus",37.276,-111.1162,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"532","Senecio spartioides",193,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"533","Senecio spartioides",499,"Agapostemon angelicus",37.2877,-111.1223,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"534","Senecio spartioides",449,"Agapostemon angelicus",37.32292,-111.1573,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"535","Senecio spartioides",487,"Agapostemon angelicus",37.2983,-111.1571,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"536","Senecio spartioides",489,"Agapostemon angelicus",37.2298,-112.1165,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"537","Senecio spartioides",448,"Agapostemon angelicus",37.3019,-111.1437,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"538","Senecio spartioides",545,"Agapostemon angelicus",37.2941,-111.1414,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"539","Senecio spartioides",430,"Agapostemon angelicus",37.2866,-111.121,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"540","Senecio spartioides",447,"Agapostemon angelicus",37.2634,-112.2565,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"541","Senecio spartioides",450,"Agapostemon angelicus",37.3252,-111.155,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"542","Senecio spartioides",495,"Agapostemon angelicus",37.2957,-112.2624,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"543","Senecio spartioides",534,"Agapostemon angelicus",37.3066,-111.1437,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"544","Shepherdia rotundifolia",273,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"545","Shepherdia rotundifolia",522,"Agapostemon angelicus",37.5158,-111.4069,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"546","Sisymbrium altissimum",269,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"547","Sisymbrium altissimum",578,"Agapostemon angelicus",37.3034,-111.1365,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"548","Sisymbrium irio",107,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"549","Solanum elaeagnifolium",109,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"550","Solidago",148,"Agapostemon angelicus",31.93342,-109.26339,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"551","Solidago serotina",641,"Agapostemon (Agapostemon) angelicus",37.83456,-99.91312,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"552","Sphaeralcea",3,"Agapostemon angelicus",35.1255,-106.3326,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"553","Sphaeralcea",137,"Agapostemon angelicus",32.57611,-111.325,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"554","Sphaeralcea",25,"Agapostemon angelicus",31.30025,-109.2625,"MX","MÃ©xico",NA,NA,NA,NA,NA,NA,NA,NA
+"555","Sphaeralcea",26,"Agapostemon angelicus",31.32907,-109.26553,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"556","Sphaeralcea",29,"Agapostemon angelicus",31.30972,-109.27778,"MX","MÃ©xico",NA,NA,NA,NA,NA,NA,NA,NA
+"557","Sphaeralcea",58,"Agapostemon angelicus",31.3194,-109.27142,"MX","MÃ©xico",NA,NA,NA,NA,NA,NA,NA,NA
+"558","Sphaeralcea",59,"Agapostemon angelicus",31.298213,-109.21942,"MX","MÃ©xico",NA,NA,NA,NA,NA,NA,NA,NA
+"559","Sphaeralcea",89,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"560","Sphaeralcea",138,"Agapostemon angelicus",33.88889,-106.40689,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"561","Sphaeralcea",532,"Agapostemon angelicus",37.4856,-112.0982,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"562","Sphaeralcea",300,"Agapostemon angelicus",37.7645,-111.4046,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"563","Sphaeralcea",490,"Agapostemon angelicus",37.2941,-111.1414,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"564","Sphaeralcea",426,"Agapostemon angelicus",37.346,-111.2135,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"565","Sphaeralcea",478,"Agapostemon angelicus",37.2957,-112.2624,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"566","Sphaeralcea",491,"Agapostemon angelicus",37.3019,-111.1437,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"567","Sphaeralcea",654,"Agapostemon (Agapostemon) angelicus",31.83477,-113.3884,"MX","MÃ©xico",NA,NA,NA,NA,NA,NA,NA,NA
+"568","Sphaeralcea angustifolia",126,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"569","Sphaeralcea angustifolia",153,"Agapostemon angelicus",35.21638,-109.33361,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"570","Sphaeralcea coccinea",439,"Agapostemon angelicus",37.3299,-112.0319,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"571","Sphaeralcea coccinea",189,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"572","Sphaeralcea coccinea",339,"Agapostemon angelicus",37.7787,-111.5326,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"573","Sphaeralcea coccinea",344,"Agapostemon angelicus",37.84737,-111.35395,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"574","Sphaeralcea coccinea",355,"Agapostemon angelicus",37.7808,-111.5353,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"575","Sphaeralcea coccinea",455,"Agapostemon angelicus",37.2941,-111.1414,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"576","Sphaeralcea emoryi",599,"Agapostemon (Agapostemon) angelicus",36.55,-110.57,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"577","Sphaeralcea grossulariifolia",363,"Agapostemon angelicus",37.7728,-111.4351,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"578","Sphaeralcea grossulariifolia",185,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"579","Sphaeralcea grossulariifolia",335,"Agapostemon angelicus",37.8303,-111.1069,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"580","Sphaeralcea grossulariifolia",345,"Agapostemon angelicus",37.9138,-111.2507,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"581","Sphaeralcea grossulariifolia",362,"Agapostemon angelicus",37.84737,-111.35395,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"582","Sphaeralcea grossulariifolia",309,"Agapostemon angelicus",37.7645,-111.4046,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"583","Sphaeralcea grossulariifolia",310,"Agapostemon angelicus",37.9272,-111.224,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"584","Sphaeralcea grossulariifolia",360,"Agapostemon angelicus",37.7693,-111.4352,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"585","Sphaeralcea grossulariifolia",405,"Agapostemon angelicus",37.9682,-111.1445,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"586","Sphaeralcea grossulariifolia",591,"Agapostemon angelicus",37.2207,-111.4677,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"587","Sphaeralcea grossulariifolia",472,"Agapostemon angelicus",37.3019,-111.1437,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"588","Sphaeralcea laxa",31,"Agapostemon angelicus",31.32389,-109.26861,"MX","MÃ©xico",NA,NA,NA,NA,NA,NA,NA,NA
+"589","Sphaeralcea laxa",46,"Agapostemon angelicus",31.33056,-109.21,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"590","Sphaeralcea laxa",52,"Agapostemon angelicus",31.30972,-109.27778,"MX","MÃ©xico",NA,NA,NA,NA,NA,NA,NA,NA
+"591","Sphaeralcea laxa",72,"Agapostemon angelicus",31.32507,-109.09158,"MX","MÃ©xico",NA,NA,NA,NA,NA,NA,NA,NA
+"592","Sphaeralcea laxa",128,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"593","Sphaeralcea parvifolia",255,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"594","Sphaeralcea parvifolia",471,"Agapostemon angelicus",37.2634,-112.2565,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"595","Sphaeralcea pedatifida",610,"Agapostemon (Agapostemon) angelicus",27.0444,-99.4403,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"596","Stanleya pinnata",219,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"597","Stanleya pinnata",386,"Agapostemon angelicus",37.7645,-111.4046,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"598","Stanleya pinnata",395,"Agapostemon angelicus",37.5608,-111.3236,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"599","Stanleya pinnata",399,"Agapostemon angelicus",37.7894,-111.1682,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"600","Stanleya pinnata",587,"Agapostemon angelicus",37.3811,-111.1126,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"601","Stanleya pinnata",536,"Agapostemon angelicus",37.3603,-112.185,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"602","Stanleya pinnata",586,"Agapostemon angelicus",37.0844,-111.9288,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"603","Stephanomeria spinosa",235,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"604","Stephanomeria spinosa",390,"Agapostemon angelicus",37.7894,-111.1682,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"605","Symphoricarpos oreophilus",209,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"606","Symphoricarpos oreophilus",501,"Agapostemon angelicus",37.3001,-111.13506,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"607","Symphoricarpos oreophilus",516,"Agapostemon angelicus",37.2866,-111.121,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"608","Symphyotrichum chilense",186,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"609","Symphyotrichum chilense",461,"Agapostemon angelicus",37.3324,-112.3404,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"610","Symphyotrichum chilense",551,"Agapostemon angelicus",37.32292,-111.1573,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"611","Symphyotrichum subulatum",181,"Agapostemon angelicus",34.48,-101.2,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"612","Symphyotrichum subulatum",163,"Agapostemon angelicus",33.46,-102.6,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"613","Symphyotrichum subulatum",183,"Agapostemon angelicus",35.35,-101.3,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"614","Tamarix",283,"Agapostemon angelicus",37.7166,-111.081,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"615","Tamarix",202,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"616","Tamarix",381,"Agapostemon angelicus",37.8651,-111.317,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"617","Tamarix",276,"Agapostemon angelicus",37.85062,-111.35437,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"618","Tamarix",401,"Agapostemon angelicus",37.5608,-111.3236,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"619","Tamarix",293,"Agapostemon angelicus",37.6447,-111.0702,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"620","Tamarix",316,"Agapostemon angelicus",37.7808,-111.5353,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"621","Tamarix",319,"Agapostemon angelicus",37.537,-111.322,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"622","Tamarix",320,"Agapostemon angelicus",37.7787,-111.5326,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"623","Tamarix",373,"Agapostemon angelicus",37.8175,-111.1785,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"624","Tamarix",387,"Agapostemon angelicus",37.5452,-111.322,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"625","Tamarix",577,"Agapostemon angelicus",37.4856,-112.0982,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"626","Tamarix",510,"Agapostemon angelicus",37.2016,-112.1221,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"627","Tamarix",561,"Agapostemon angelicus",37.1879,-111.9205,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"628","Tamarix",554,"Agapostemon angelicus",37.2609,-112.3246,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"629","Tamarix",592,"Agapostemon angelicus",37.14,-111.8354,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"630","Tamarix aphylla",125,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"631","Tamarix aphylla",19,"Agapostemon angelicus",31.325,-109.265,"MX","MÃ©xico",NA,NA,NA,NA,NA,NA,NA,NA
+"632","Tamarix chinensis",624,"Agapostemon (Agapostemon) angelicus",32.42056,-104.2283,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"633","Tamarix chinensis",647,"Agapostemon (Agapostemon) angelicus",33.32528,-105.9022,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"634","Tamarix ramosissima",17,"Agapostemon angelicus",31.31222,-109.255,"MX","MÃ©xico",NA,NA,NA,NA,NA,NA,NA,NA
+"635","Tamarix ramosissima",18,"Agapostemon angelicus",31.31787,-109.26017,"MX","MÃ©xico",NA,NA,NA,NA,NA,NA,NA,NA
+"636","Tamarix ramosissima",53,"Agapostemon angelicus",31.31611,-109.25806,"MX","MÃ©xico",NA,NA,NA,NA,NA,NA,NA,NA
+"637","Tamarix ramosissima",67,"Agapostemon angelicus",31.3144,-109.25563,"MX","MÃ©xico",NA,NA,NA,NA,NA,NA,NA,NA
+"638","Tamarix ramosissima",92,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"639","Taraxacum tenejapense",203,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"640","Taraxacum tenejapense",525,"Agapostemon angelicus",37.3001,-111.13506,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"641","Taraxacum tenejapense",590,"Agapostemon angelicus",37.2959,-111.1197,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"642","Taraxacum tenejapense",477,"Agapostemon angelicus",37.2941,-111.1414,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"643","Taraxacum tenejapense",566,"Agapostemon angelicus",37.276,-111.1162,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"644","Taraxacum tenejapense",535,"Agapostemon angelicus",37.3019,-111.1437,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"645","Taraxacum tenejapense",581,"Agapostemon angelicus",37.29953,-111.12777,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"646","Thelypodiopsis divaricata",261,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"647","Thelypodiopsis divaricata",483,"Agapostemon angelicus",37.2941,-111.1414,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"648","Thelypodium integrifolium",199,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"649","Thelypodium integrifolium",314,"Agapostemon angelicus",37.9138,-111.2507,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"650","Trianthema portulacastrum",133,"Agapostemon angelicus",32.0596,-109.041,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"651","Verbena halei",80,"Agapostemon angelicus",30.355,-96.551,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"652","Verbena plicata",100,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"653","Verbesina",659,"Agapostemon (Agapostemon) angelicus",31.5,-109.5447,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"654","Verbesina encelioides",142,"Agapostemon angelicus",31.8825,-109.206,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"655","Verbesina encelioides",161,"Agapostemon angelicus",33.98,-102.9,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"656","Verbesina encelioides",634,"Agapostemon (Agapostemon) angelicus",31.67944,-110.6547,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"657","Verbesina encelioides ex",14,"Agapostemon angelicus",31.33902,-109.27278,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"658","Verbesina encelioides ex",51,"Agapostemon angelicus",31.30972,-109.27778,"MX","MÃ©xico",NA,NA,NA,NA,NA,NA,NA,NA
+"659","Verbesina encelioides ex",64,"Agapostemon angelicus",31.32222,-109.27778,"MX","MÃ©xico",NA,NA,NA,NA,NA,NA,NA,NA
+"660","Vernonia",658,"Agapostemon (Agapostemon) angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"661","Viguiera",246,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"662","Viguiera",588,"Agapostemon angelicus",37.3624,-111.8623,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"663","Xanthisma spinulosum",35,"Agapostemon angelicus",31.31972,-109.19333,"MX","MÃ©xico",NA,NA,NA,NA,NA,NA,NA,NA
+"664","Xanthisma spinulosum",42,"Agapostemon angelicus",31.33333,-109.24028,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"665","Xanthisma spinulosum",43,"Agapostemon angelicus",31.31944,-109.28417,"MX","MÃ©xico",NA,NA,NA,NA,NA,NA,NA,NA
+"666","Xanthisma spinulosum",66,"Agapostemon angelicus",31.32556,-109.26667,"MX","MÃ©xico",NA,NA,NA,NA,NA,NA,NA,NA
+"667","Xanthisma spinulosum",115,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"668","Xanthisma texanum drummondii",602,"Agapostemon (Agapostemon) angelicus",34.5467,-100.4904,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"669","Yucca elata",618,"Agapostemon (Agapostemon) angelicus",32.53428,-108.9263,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"670","Zinnia acerosa",49,"Agapostemon angelicus",31.33056,-109.21,"US","Estados Unidos",NA,NA,NA,NA,NA,NA,NA,NA
+"671","Zinnia acerosa",83,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"672","Ziziphus obtusifolia",85,"Agapostemon angelicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"673","Ziziphus obtusifolia",144,"Agapostemon angelicus",31.35,-106.4667,"MX","MÃ©xico",NA,NA,NA,NA,NA,NA,NA,NA
