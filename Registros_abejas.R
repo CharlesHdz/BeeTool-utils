@@ -2,8 +2,10 @@ library(dplyr)
 library(readr)
 library(rgbif)
 
-#Lista de especies a descargar#
+# Countries of interest
+countries <- c('CA', 'MX', 'US')
 
+#Lista de especies a descargar#
 lista <- read_csv("data/bee-sps.csv")
 
 lista <- lista %>%
@@ -21,8 +23,12 @@ gbif_taxon_keys <- lista %>%
 
 # download the data
 download_info <- occ_download(
+  pred_in("country", countries),
   pred_in("taxonKey", gbif_taxon_keys), # important to use pred_in
   pred("hasCoordinate", TRUE),
   pred("hasGeospatialIssue", FALSE),
-  format = "SIMPLE_CSV"
+  format = "DWCA"
 )
+
+# Check if download is already available
+# occ_download_wait(download_info)
